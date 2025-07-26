@@ -1,15 +1,9 @@
 {
-  "name": "workspace",
+  "name": "gdrive-proxy-stream",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "type": "module",
   "dependencies": {
-    "crypto-js": "^4.2.0"
+    "crypto-js": "^4.1.1",
+    "node-fetch": "^3.3.2"
   }
 }
